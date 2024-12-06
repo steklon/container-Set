@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mftt261kxdlthgwr?svg=true)](https://ci.appveyor.com/project/steklon/container-set)
+
 ## `Set`
 
 ### Легенда
